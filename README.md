@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhTXJ8cP5dmf7urHZ7Gx1jS9aG-KaTHhG9dg&usqp=CAU" alt="Logo" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Othello-Standard-Board.jpg/375px-Othello-Standard-Board.jpg" alt="Logo" width="300" height="200">
   <a href="https://github.com/olliegroth/Othello-AI">
   </a>
 
