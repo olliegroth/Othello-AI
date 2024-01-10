@@ -22,7 +22,9 @@
 
 ## About The Project
 
-This repository contains my A-Level Computer Science Coursework, completed in 2022/2023. The project is complete despite missing features I had intended to include at the time. Even so, any suggestions for improvement are welcome.
+This repository contains my A-Level Computer Science Coursework, completed in 2022/2023. 
+
+The project is a complete work, despite missing features I had intended to include at the time. Even so, any suggestions for improvement are welcome.
 
 ## Bugs, Issues And Requests
 Please report any issue or bugs [here](https://github.com/olliegroth/Othello-AI/issues/new)
