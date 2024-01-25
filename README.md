@@ -6,6 +6,10 @@
 
   <h3 align="center">Othello AI (A-Level Coursework)</h3>
 
+  <p align="center">
+    A-Level Computer Science Coursework, completed in 2022/2023.
+  </p>
+
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
