@@ -45,4 +45,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact Me 
 
-If you wish to contact me, please email me via olliegroth2004@gmail.com
+If you wish to contact me, please email via olliegroth2004@gmail.com
